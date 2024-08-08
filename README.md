@@ -52,5 +52,4 @@ HTML5: The standard markup language for creating web pages.
 3. Generate Password:
    1. Set the desired password length using the slider.
    2. Select the character options (numbers, characters).
-   3. Click the "Generate Password" button to create a new password.
-   4. Click the "Copy to Clipboard" button to copy the generated password.
+   3. Click the "Copy to Clipboard" button to copy the generated password.
