@@ -1,4 +1,3 @@
-
 # Password Generator
 This repository contains a password generator application built with React.js and styled using Tailwind CSS. The application allows users to generate strong, random passwords based on selected criteria such as length, inclusion of numbers and characters along with the combination of UpperCase and LowerCase letters.
 
@@ -53,3 +52,7 @@ HTML5: The standard markup language for creating web pages.
    1. Set the desired password length using the slider.
    2. Select the character options (numbers, characters).
    3. Click the "Copy to Clipboard" button to copy the generated password.
+
+#Acknowledgements
+ 1. [React.js](https://react.dev/)
+ 2. [Tailwind CSS](https://tailwindcss.com/)
